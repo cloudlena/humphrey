@@ -1,8 +1,8 @@
 package humphrey
 
 import (
-	"github.com/mastertinner/humphrey/internal/app/humphrey/img"
-	"github.com/mastertinner/humphrey/pkg/game"
+	"github.com/cloudlena/humphrey/internal/app/humphrey/img"
+	"github.com/cloudlena/humphrey/pkg/game"
 )
 
 var approachNino = &game.Scene{

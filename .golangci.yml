@@ -4,10 +4,14 @@ linters:
     - exhaustivestruct
     - forbidigo
     - gochecknoglobals
+    - golint
+    - interfacer
     - lll
-    - wsl
+    - maligned
     - nlreturn
+    - scopelint
     - varnamelen
+    - wsl
 
 linters-settings:
   govet:

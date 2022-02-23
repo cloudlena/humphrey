@@ -1,6 +1,6 @@
 package main
 
-import "github.com/mastertinner/humphrey/internal/app/humphrey"
+import "github.com/cloudlena/humphrey/internal/app/humphrey"
 
 func main() {
 	humphrey.Start.Render()
